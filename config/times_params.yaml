@@ -1,0 +1,22 @@
+dataset_dir : D:/BOOTCAMP/project/Project Pribadi/Udemy - Time Series Analysis in Python/data/data real/ #choose folder data
+float_columns :
+- AveragePrice  
+- Total_sold
+- ret_price 
+- ret_sold
+
+range_price :
+- 0.44
+- 3.25
+
+range_sold :
+- 84.56
+- 62505646.52
+
+range_ret_price :
+- -63.1578947368421
+- 155.88235294117646
+
+range_ret_sold :
+- -99.88758518272398
+- 29059.025287990324
